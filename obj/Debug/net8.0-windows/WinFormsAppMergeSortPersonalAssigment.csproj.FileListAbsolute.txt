@@ -1,0 +1,16 @@
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.exe
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.deps.json
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.runtimeconfig.json
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\bin\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.pdb
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.Form1.resources
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.csproj.GenerateResource.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.GeneratedMSBuildEditorConfig.editorconfig
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.AssemblyInfoInputs.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.AssemblyInfo.cs
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.csproj.CoreCompileInputs.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\refint\WinFormsAppMergeSortPersonalAssigment.dll
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.pdb
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\WinFormsAppMergeSortPersonalAssigment.genruntimeconfig.cache
+D:\useful files\university\2 курс\1_term\ASD\lab_3\WinFormsAppMergeSortPersonalAssigment\obj\Debug\net8.0-windows\ref\WinFormsAppMergeSortPersonalAssigment.dll

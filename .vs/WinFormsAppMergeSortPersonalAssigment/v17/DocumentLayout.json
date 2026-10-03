@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|d:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\asd\\lab_3\\winformsappmergesortpersonalassigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|d:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\asd\\lab_3\\winformsappmergesortpersonalassigment\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D8D7D8-6C93-4426-9CB2-F537B9FC0BEA}|WinFormsAppMergeSortPersonalAssigment.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T22:28:35.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAtwLEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T22:25:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\useful files\\university\\2 \u043A\u0443\u0440\u0441\\1_term\\ASD\\lab_3\\WinFormsAppMergeSortPersonalAssigment\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T22:24:57.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
